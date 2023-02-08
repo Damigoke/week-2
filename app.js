@@ -73,3 +73,5 @@ function handleClick(index) {
     </article>
      `
 }
+
+module.exports = main()
